@@ -23,6 +23,7 @@
     "5.0"
   ],
   "source_files": "IQKeyboardManagerSwift/**/*.{swift}",
+  "resource_bundles": {"IQKeyboardManagerSwift": "IQKeyboardManagerSwift/PrivacyInfo.xcprivacy"},
   "resources": "IQKeyboardManagerSwift/Resources/IQKeyboardManager.bundle",
   "frameworks": [
     "UIKit",

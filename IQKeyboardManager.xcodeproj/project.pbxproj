@@ -62,6 +62,8 @@
 		4CD5973F1D1C5EDD00AB28D3 /* IQKeyboardManager.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4CD5972C1D1C5EDD00AB28D3 /* IQKeyboardManager.bundle */; };
 		4CD597421D1C60B000AB28D3 /* IQKeyboardManagerSwift.h in Headers */ = {isa = PBXBuildFile; fileRef = 4CD597411D1C60B000AB28D3 /* IQKeyboardManagerSwift.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		63EECD42205FD69A006B42C2 /* IQInvocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63EECD41205FD69A006B42C2 /* IQInvocation.swift */; };
+		68DE6B352BD126A6000F4B23 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 68DE6B342BD126A6000F4B23 /* PrivacyInfo.xcprivacy */; };
+		68DE6B372BD126B2000F4B23 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 68DE6B362BD126B2000F4B23 /* PrivacyInfo.xcprivacy */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -120,6 +122,8 @@
 		4CD597401D1C602500AB28D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = Demo/Swift_Demo/Resources/Info.plist; sourceTree = SOURCE_ROOT; };
 		4CD597411D1C60B000AB28D3 /* IQKeyboardManagerSwift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IQKeyboardManagerSwift.h; sourceTree = "<group>"; };
 		63EECD41205FD69A006B42C2 /* IQInvocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IQInvocation.swift; sourceTree = "<group>"; };
+		68DE6B342BD126A6000F4B23 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		68DE6B362BD126B2000F4B23 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -188,6 +192,7 @@
 				4CD2C4C51C5A63A300975A7A /* IQKeyboardManager.m */,
 				4CD2C4C61C5A63A300975A7A /* IQKeyboardReturnKeyHandler.h */,
 				4CD2C4C71C5A63A300975A7A /* IQKeyboardReturnKeyHandler.m */,
+				68DE6B342BD126A6000F4B23 /* PrivacyInfo.xcprivacy */,
 				4CD2C4C91C5A63A300975A7A /* IQTextView */,
 				4CD2C4CC1C5A63A300975A7A /* IQToolbar */,
 				4CD2C4D61C5A63A300975A7A /* Resources */,
@@ -268,6 +273,7 @@
 		4CD597141D1C5EDD00AB28D3 /* IQKeyboardManagerSwift */ = {
 			isa = PBXGroup;
 			children = (
+				68DE6B362BD126B2000F4B23 /* PrivacyInfo.xcprivacy */,
 				4CD597151D1C5EDD00AB28D3 /* Categories */,
 				4CD5971C1D1C5EDD00AB28D3 /* Constants */,
 				4CD597201D1C5EDD00AB28D3 /* IQKeyboardManager.swift */,
@@ -443,6 +449,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68DE6B352BD126A6000F4B23 /* PrivacyInfo.xcprivacy in Resources */,
 				4CD2C4F51C5A63A300975A7A /* IQKeyboardManager.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -451,6 +458,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68DE6B372BD126B2000F4B23 /* PrivacyInfo.xcprivacy in Resources */,
 				4CD5973F1D1C5EDD00AB28D3 /* IQKeyboardManager.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
