@@ -1,0 +1,4 @@
+module IQKeyboardManagerSwift {
+    header "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManagerSwift-Swift.h"
+    requires objc
+}

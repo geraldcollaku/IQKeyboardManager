@@ -1,0 +1,107 @@
+{
+  "": {
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/master.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/Categories/IQNSArray+Sort.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQNSArray+Sort.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQNSArray+Sort.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQNSArray+Sort~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQNSArray+Sort.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/Categories/IQUIScrollView+Additions.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIScrollView+Additions.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIScrollView+Additions.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIScrollView+Additions~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIScrollView+Additions.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/Categories/IQUITextFieldView+Additions.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUITextFieldView+Additions.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUITextFieldView+Additions.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUITextFieldView+Additions~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUITextFieldView+Additions.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/Categories/IQUIView+Hierarchy.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIView+Hierarchy.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIView+Hierarchy.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIView+Hierarchy~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIView+Hierarchy.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/Categories/IQUIViewController+Additions.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIViewController+Additions.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIViewController+Additions.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIViewController+Additions~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIViewController+Additions.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstants.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManagerConstants.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManagerConstants.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManagerConstants~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManagerConstants.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/Constants/IQKeyboardManagerConstantsInternal.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManagerConstantsInternal.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManagerConstantsInternal.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManagerConstantsInternal~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManagerConstantsInternal.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/IQKeyboardManager.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManager.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManager.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardManager.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/IQKeyboardReturnKeyHandler.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardReturnKeyHandler.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardReturnKeyHandler.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardReturnKeyHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQKeyboardReturnKeyHandler.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/IQTextView/IQTextView.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQTextView.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQTextView.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQTextView~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQTextView.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/IQToolbar/IQBarButtonItem.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQBarButtonItem.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQBarButtonItem.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQBarButtonItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQBarButtonItem.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/IQToolbar/IQInvocation.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQInvocation.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQInvocation.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQInvocation~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQInvocation.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/IQToolbar/IQPreviousNextView.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQPreviousNextView.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQPreviousNextView.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQPreviousNextView~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQPreviousNextView.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/IQToolbar/IQTitleBarButtonItem.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQTitleBarButtonItem.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQTitleBarButtonItem.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQTitleBarButtonItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQTitleBarButtonItem.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQToolbar.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQToolbar.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQToolbar~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQToolbar.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/IQKeyboardManagerSwift/IQToolbar/IQUIView+IQKeyboardToolbar.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIView+IQKeyboardToolbar.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIView+IQKeyboardToolbar.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIView+IQKeyboardToolbar~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/IQUIView+IQKeyboardToolbar.swiftdeps"
+  },
+  "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/resource_bundle_accessor.d",
+    "object": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/gerald.collaku/IQKeyboardManager/.build/x86_64-apple-macosx/debug/IQKeyboardManagerSwift.build/resource_bundle_accessor.swiftdeps"
+  }
+}
